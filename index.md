@@ -3,7 +3,7 @@ Student ID: 2019402039
 
 ### Below is the HTML link for the Project Part 1:
 
-[IE 423 project part 1/IE 423 Project Part 1.html]
+[IE 423 project part 1/IE 423 Project Part 1.html](https://github.com/BU-IE-423/fall-23-elifgul0/blob/55541e3f298c979cdcf51d6840f0701b8836a8ab/IE%20423%20project%20part%201/IE%20423%20Project%20Part%201.html)
 
 ### Below is the link to the code file:
 
