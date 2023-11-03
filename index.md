@@ -3,7 +3,7 @@ Student ID: 2019402039
 
 ### Below is the HTML link for the Project Part 1:
 
-(IE 423 project part 1/IE 423 Project Part 1.html)
+[Link to the html file](IE 423 project part 1/IE 423 Project Part 1.html)
 
 ### Below is the link to the code file:
 
