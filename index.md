@@ -15,3 +15,4 @@ IE423 Project Part 2/IE423 Project Part 2/Task 1_son.html
 
 ### Below is the link to the .ipynb file:
 
+IE423 Project Part 2/IE423 Project Part 2/Task 1_son.ipynb
