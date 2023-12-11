@@ -11,8 +11,7 @@ Student ID: 2019402039
 
 ### Below is the HTML link for the Project Part 2:
 
-IE423 Project Part 2/IE423 Project Part 2/Task 1_son.html
+[IE423 Project Part 2/IE423 Project Part 2/Task 1_son.html](IE423 Project Part 2/IE423 Project Part 2/Task 1_son.html)
 
 ### Below is the link to the .ipynb file:
-[
-IE423 Project Part 2/IE423 Project Part 2/Task 1_son.ipynb](https://github.com/BU-IE-423/fall-23-elifgul0/blob/a69ce9c0ca6f33413e99ccbdff6177f3e01496f8/IE423%20Project%20Part%202/IE423%20Project%20Part%202/Task%201_son.ipynb)
+[IE423 Project Part 2/IE423 Project Part 2/Task 1_son.ipynb](https://github.com/BU-IE-423/fall-23-elifgul0/blob/a69ce9c0ca6f33413e99ccbdff6177f3e01496f8/IE423%20Project%20Part%202/IE423%20Project%20Part%202/Task%201_son.ipynb)
